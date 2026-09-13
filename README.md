@@ -1,4 +1,4 @@
-# Re:Culture Health - Mobile Assessment Starter
+# Mobile Starter
 
 Welcome! This is a lightweight React + TypeScript starter project built with [Vite](https://vitejs.dev/).
 
